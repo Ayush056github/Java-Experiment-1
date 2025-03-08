@@ -83,7 +83,6 @@ class Bank {
 
 }
 
-
 Output -
 Are you a new customer if yes(1) or no(0): 0
 Menu
